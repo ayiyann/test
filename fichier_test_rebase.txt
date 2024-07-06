@@ -1,3 +1,4 @@
 creation du fichier test rebase
 commit 1 sur fichier test rebase
 commit 2 sur fichier test rebase
+commit 3 sur fichier test rebase
